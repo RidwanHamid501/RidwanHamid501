@@ -33,6 +33,7 @@ Welcome to my GitHub! I'm **Ridwan Hamid**, a trainee data & software engineer w
      - Created a custom dataset for segmentation and classification.
      - Leveraged ResNet for accurate predictions on food items and nutritional details.
    - **Focus**: Solving a practical problem with an innovative approach, combining technical skill with independent research.
+   - **Repository**: [Food Recoginition & Nutritional Estimation](https://github.com/RidwanHamid501/Food-Recognition)
 
 ---
 
