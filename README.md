@@ -44,6 +44,7 @@ Welcome to my GitHub! I'm **Ridwan Hamid**, a trainee data & software engineer w
      - Kafka consumer for seamless, live data processing.
      - Unified kiosk data (.csv) and exhibit metadata (.json) into a single analytics schema.
    - **Focus**: Streamlined data ingestion, error handling, and real-time insights.
+   - **Repository**: [LMNH Data Pipeline](https://github.com/RidwanHamid501/LMNH-Data-Pipeline)
 
 ---
 
