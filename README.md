@@ -15,6 +15,17 @@ Welcome to my GitHub! I'm **Ridwan Hamid**, a trainee data & software engineer w
 
 ## 🚀 Projects
 
+### 🏛️ Liverpool Museum of Natural History (LMNH) Data Pipeline
+   **Data pipeline for real-time visitor analytics**  
+   - **Stack**: Python, AWS S3, PostgreSQL, Kafka  
+   - **Highlights**:
+     - Kafka consumer for seamless, live data processing.
+     - Unified kiosk data (.csv) and exhibit metadata (.json) into a single analytics schema.
+   - **Focus**: Streamlined data ingestion, error handling, and real-time insights.
+   - **Repository**: [LMNH Data Pipeline](https://github.com/RidwanHamid501/LMNH-Data-Pipeline)
+
+---
+
 ### 🛠️ AWS-Service-Deleter
    **Automated CLI tool for AWS resource cleanup**  
    - **Stack**: Python 3.12, AWS SDK  
@@ -34,17 +45,6 @@ Welcome to my GitHub! I'm **Ridwan Hamid**, a trainee data & software engineer w
      - Leveraged ResNet for accurate predictions on food items and nutritional details.
    - **Focus**: Solving a practical problem with an innovative approach, combining technical skill with independent research.
    - **Repository**: [Food Recoginition & Nutritional Estimation](https://github.com/RidwanHamid501/Food-Recognition)
-
----
-
-### 🏛️ Liverpool Museum of Natural History (LMNH) Data Pipeline
-   **Data pipeline for real-time visitor analytics**  
-   - **Stack**: Python, AWS S3, PostgreSQL, Kafka  
-   - **Highlights**:
-     - Kafka consumer for seamless, live data processing.
-     - Unified kiosk data (.csv) and exhibit metadata (.json) into a single analytics schema.
-   - **Focus**: Streamlined data ingestion, error handling, and real-time insights.
-   - **Repository**: [LMNH Data Pipeline](https://github.com/RidwanHamid501/LMNH-Data-Pipeline)
 
 ---
 
