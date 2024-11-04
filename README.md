@@ -26,6 +26,17 @@ Welcome to my GitHub! I'm **Ridwan Hamid**, a trainee data & software engineer w
 
 ---
 
+### 🍔 Tasty Truck Treats (T3) Data Pipeline
+   **Automated data pipeline for transaction-level analytics**  
+   - **Stack**: Python, AWS S3, PostgreSQL, AWS ECS  
+   - **Highlights**:
+     - Built an ETL pipeline for real-time transaction data collection from T3’s food trucks.
+     - Deployed an interactive dashboard on AWS ECS for monitoring truck performance and generating daily summary reports.
+   - **Focus**: Create a real-time, automated data pipeline that enables T3 to make data-driven decisions for optimising truck operations, financial performance, and customer satisfaction.
+   - **Repository**: [T3 Data Pipeline](https://github.com/RidwanHamid501/T3-Data-Pipeline)
+
+---
+
 ### 🛠️ AWS-Service-Deleter
    **Automated CLI tool for AWS resource cleanup**  
    - **Stack**: Python 3.12, AWS SDK  
