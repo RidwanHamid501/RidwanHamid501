@@ -37,9 +37,9 @@ Welcome to my GitHub! I'm **Ridwan Hamid**, a trainee data & software engineer w
 
 ---
 
-### 🧬 PharmaZer Data Matching Pipeline
+### 🧬 PharmaZer Data Matching
 
-**Automated pipeline for collating and standardizing research affiliations**
+**Automated solution for collating and standardizing research affiliations**
 
 - **Stack**: Python, AWS S3, Pandas, spaCy, RapidFuzz  
 - **Highlights**:
