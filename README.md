@@ -37,6 +37,20 @@ Welcome to my GitHub! I'm **Ridwan Hamid**, a trainee data & software engineer w
 
 ---
 
+### 🧬 PharmaZer Data Matching Pipeline
+
+**Automated pipeline for collating and standardizing research affiliations**
+
+- **Stack**: Python, AWS S3, Pandas, spaCy, RapidFuzz  
+- **Highlights**:
+  - Parses nested PubMed XML files to extract article metadata and author affiliations.
+  - Matches non-standard institution names with standardized GRID data using NLP and string similarity techniques.
+  - Outputs a clean, enriched CSV file ready for analysis.  
+- **Focus**: Streamline the process of organizing and analyzing medical research data to support PharmaZer’s R&D efforts.  
+- **Repository**: [PharmaZer Data Matching](https://github.com/RidwanHamid501/PharmaZer-Data-Matching)
+
+---
+
 ### 🛠️ AWS-Service-Deleter
    **Automated CLI tool for AWS resource cleanup**  
    - **Stack**: Python 3.12, AWS SDK  
