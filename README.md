@@ -51,7 +51,7 @@ Welcome to my GitHub! I'm **Ridwan Hamid**, a trainee data & software engineer w
 
 ---
 
-### 🛠️ AWS-Service-Deleter
+### 🛠️ AWS Service Deleter
    **Automated CLI tool for AWS resource cleanup**  
    - **Stack**: Python 3.12, AWS SDK  
    - **Features**:
