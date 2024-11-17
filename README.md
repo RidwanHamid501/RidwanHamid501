@@ -57,7 +57,7 @@ Welcome to my GitHub! I'm **Ridwan Hamid**, a trainee data & software engineer w
    - **Features**:
      - Choose between **plan** and **execute** modes for resource management.
      - **Dynamic parameter handling** for efficient multi-resource deletion.
-   - **Repository**: [AWS-Service-Deleter](https://github.com/RidwanHamid501/AWS-Service-Deleter)
+   - **Repository**: [AWS Service Deleter](https://github.com/RidwanHamid501/AWS-Service-Deleter)
 
 ---
 
