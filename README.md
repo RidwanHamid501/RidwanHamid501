@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🎉 Ridwan Hamid's Project Portfolio</h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RidwanHamid501&theme=radical&rank=-?&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RidwanHamid501&theme=radical&rank=-?&column=-1&exclude=PullRequest,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
