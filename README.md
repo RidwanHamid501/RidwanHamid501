@@ -24,6 +24,8 @@ Welcome to my GitHub! I'm **Ridwan Hamid**, a trainee data & software engineer w
    - **Focus**: Providing a scalable and automated system for collecting, processing, and analyzing online trends. Designed for businesses and researchers who need real-time trend monitoring across different platforms.
    - **Repository**: [Trend Getters](https://github.com/RidwanHamid501/trend-getters)
 
+---
+
 ### 🏛️ Liverpool Museum of Natural History (LMNH) Data Pipeline
    **Data pipeline for real-time visitor analytics**  
    - **Stack**: Python, AWS S3, PostgreSQL, Kafka  
