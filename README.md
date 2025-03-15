@@ -62,16 +62,6 @@ Welcome to my GitHub! I'm **Ridwan Hamid**, a trainee data & software engineer w
 
 ---
 
-### 🛠️ AWS Service Deleter
-   **Automated CLI tool for AWS resource cleanup**  
-   - **Stack**: Python 3.12, AWS SDK  
-   - **Features**:
-     - Choose between **plan** and **execute** modes for resource management.
-     - **Dynamic parameter handling** for efficient multi-resource deletion.
-   - **Repository**: [AWS Service Deleter](https://github.com/RidwanHamid501/AWS-Service-Deleter)
-
----
-
 ### 📚 Food Recognition and Nutritional Estimation
    **Machine learning and computer vision tool for food recognition**  
    - **Description**: Developed a system that identifies food items in images and estimates nutritional content using custom datasets and machine learning.
