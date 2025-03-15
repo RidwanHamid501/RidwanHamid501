@@ -15,6 +15,15 @@ Welcome to my GitHub! I'm **Ridwan Hamid**, a trainee data & software engineer w
 
 ## 🚀 Projects
 
+### 📊 Trend Getters Data Pipeline
+   **A cloud-based ETL pipeline and dashboard for tracking trending topics across multiple platforms**
+   - **Stack**: Python 3.12, AWS Lambda, AWS S3, AWS RDS, Terraform, Docker
+   - **Highlights**:
+     - End-to-end ETL pipeline – Automates data extraction, transformation, and storage in AWS S3 and RDS for real-time trend analysis.
+     - Subscription-based notifications – Users receive automated alerts when tracked topics gain traction, ensuring timely insights.
+   - **Focus**: Providing a scalable and automated system for collecting, processing, and analyzing online trends. Designed for businesses and researchers who need real-time trend monitoring across different platforms.
+   - **Repository**: [Trend Getters](https://github.com/RidwanHamid501/trend-getters)
+
 ### 🏛️ Liverpool Museum of Natural History (LMNH) Data Pipeline
    **Data pipeline for real-time visitor analytics**  
    - **Stack**: Python, AWS S3, PostgreSQL, Kafka  
